@@ -1,16 +1,19 @@
-<div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
-🎓 Sai Surya Cherupally
+# 🎓 Sai Surya Cherupally's Projects
 
 Welcome to my GitHub repository! Here you will find various projects and code samples that I have worked on during my internships and academic career. I am an enthusiastic fresher with a strong foundation in requirements understanding, design, and coding, eager to contribute engineering excellence to a dynamic team.
 
 ## About Me
 
-- **Name:** Sai Surya Cherupally
-- **Location:** 📍 Plot No. 258, KLR Avenue, Kodad, Suryapet (Dist), Telangana, India
-- **Contact:** 
-  - **Phone:** 📞 +91 6304886268
-  - **Email:** ✉️ [csaisurya@gmail.com](mailto:csaisurya@gmail.com)
-  - **LinkedIn:** 🔗 [cherupally-saisurya](https://www.linkedin.com/in/cherupally-saisurya)
+<div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; padding: 10px; border: 1px solid #ddd; border-radius: 5px; background-color: #f9f9f9;">
+  <p><strong>Name:</strong> Sai Surya Cherupally</p>
+  <p><strong>Location:</strong> 📍 Plot No. 258, KLR Avenue, Kodad, Suryapet (Dist), Telangana, India</p>
+  <p><strong>Contact:</strong></p>
+  <ul>
+    <li><strong>Phone:</strong> 📞 +91 6304886268</li>
+    <li><strong>Email:</strong> ✉️ <a href="mailto:csaisurya@gmail.com">csaisurya@gmail.com</a></li>
+    <li><strong>LinkedIn:</strong> 🔗 <a href="https://www.linkedin.com/in/cherupally-saisurya">cherupally-saisurya</a></li>
+  </ul>
+</div>
 
 ## Experience
 
@@ -53,24 +56,24 @@ Welcome to my GitHub repository! Here you will find various projects and code sa
 ## Projects
 
 ### Major Project
-- **Data-Driven Design and Implementation of Predictive Temperature and pH Monitoring System for Aquaculture using Arduino**
+- **🔍 Data-Driven Design and Implementation of Predictive Temperature and pH Monitoring System for Aquaculture using Arduino**
   - **Duration:** January 2023 - May 2023
 
 ### Minor Project
-- **Smart Helmet for Coal Mine Workers Using MATLAB and C**
+- **⛑️ Smart Helmet for Coal Mine Workers Using MATLAB and C**
   - **Duration:** September 2022 - December 2022
 
 ### Other Projects
-- **Background Remover Tool:** Built using Rembg and Streamlit libraries in Python. 🗓️ June 2023
-- **Password Manager Tool:** Built using Python frameworks. 🗓️ October 2023
-- **Instagram Follower Bot:** Built using Selenium and other Python frameworks. 🗓️ November 2023
+- **🖼️ Background Remover Tool:** Built using Rembg and Streamlit libraries in Python. 🗓️ June 2023
+- **🔐 Password Manager Tool:** Built using Python frameworks. 🗓️ October 2023
+- **🤖 Instagram Follower Bot:** Built using Selenium and other Python frameworks. 🗓️ November 2023
 
 ## Courses & Certifications
 
-- **Data Visualization** | Forage (TATA) 📅 February 2023
-- **SQL, Java, Python** | Udemy 📅 August 2021
-- **Agile Methodology V.E.P** | Forage (Cognizant) 📅 February 2023
-- **Google Analytics for Beginners** | Google 📅 January 2023
+- **📊 Data Visualization** | Forage (TATA) 📅 February 2023
+- **💻 SQL, Java, Python** | Udemy 📅 August 2021
+- **📈 Agile Methodology V.E.P** | Forage (Cognizant) 📅 February 2023
+- **📊 Google Analytics for Beginners** | Google 📅 January 2023
 
 ## Presentations
 
@@ -92,5 +95,3 @@ Welcome to my GitHub repository! Here you will find various projects and code sa
 ---
 
 Thank you for visiting my GitHub repository! Feel free to explore my projects and connect with me via LinkedIn or email. 😊
-
-</div>
