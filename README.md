@@ -1,5 +1,5 @@
 <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
-# 🎓 Sai Surya Cherupally
+## 🎓 Sai Surya Cherupally
 
 Welcome to my GitHub repository! Here you will find various projects and code samples that I have worked on during my internships and academic career. I am an enthusiastic fresher with a strong foundation in requirements understanding, design, and coding, eager to contribute engineering excellence to a dynamic team.
 
