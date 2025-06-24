@@ -1,66 +1,21 @@
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cherupally sai surya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:csaisurya@gmail.com) 
 
-# Hi, I'm Sai Surya Cherupally 👋
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cherypallysaisurya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=cherypallysaisurya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cherypallysaisurya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I'm a Data Science and Analytics enthusiast pursuing my Master of Science at Florida Atlantic University (GPA: 4.0) in Boca Raton, FL. I have a knack for predictive modeling, machine learning, and building cloud data pipelines that drive real-world insights. Welcome to my GitHub, where I share projects, code samples, and innovations in AI, data analytics, and more!
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🔍 About Me
-
-- 🎓 **Master of Science in Data Science and Analytics**  
-  Florida Atlantic University (Aug 2024 – Present)
-
-- 🎓 **Bachelor of Technology in Electronics and Communication Engineering**  
-  Guru Nanak Institute of Technology, Hyderabad, India (Aug 2019 – Jun 2023)
-
-- 💼 **Data Science Intern @ Oasis Infobyte**  
-  Built predictive models and performed deep exploratory data analysis to boost customer segmentation accuracy by 20%.
-
-- 📊 **Data Visualization Intern @ Tata**  
-  Designed 10+ interactive dashboards, transforming complex data into clear, actionable insights.
-
-- 🤝 **Vice President @ PACE Club, FAU**  
-  Driving student engagement through workshops, technical projects, and collaborative events (Jan 2025 – Present).
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=cherypallysaisurya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=cherypallysaisurya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💻 Skills
-
-- **Programming:** Python (pandas, NumPy, scikit-learn, matplotlib), SQL
-- **Data Viz:** Tableau, Power BI, Microsoft Excel
-- **ML & NLP:** Predictive Modeling, EDA, XGBoost, SHAP, spaCy, LangChain
-- **Cloud & Pipelines:** AWS Lambda, Amazon S3, SageMaker, RESTful APIs
-- **Tools:** Git, Jupyter, Chroma Vector Store, ThreadPoolExecutor
-- **Methodologies:** Agile, ETL, Data Wrangling, Feature Engineering, A/B Testing
-
----
-
-## 🚀 Projects
-
-- **Resume Parsing Project**  
-  An AI-powered resume parser using NLP and OCR (EasyOCR/PaddleOCR) that streamlines candidate profiling and recruitment workflows.
-
-- **FAU Events App**  
-  A mobile/web application that centralizes campus event discovery, registration, and real-time notifications to boost student engagement.
-
-- **ArchiveX AI**  
-  An archival pipeline that automates document scanning, metadata extraction, and classification with advanced OCR and NLP techniques.  
-  *Tools: pytesseract, spaCy, LangChain with HuggingFace Flan-T5, Chroma Vector Store.*
-
-- **Multi-Doc Insight**  
-  A versatile document extraction tool processing PDFs, images, DOCs, and handwritten notes to produce concise summaries and matching scores.
-
-- **QuantEdge Cloud Pipeline**  
-  A cloud-based data pipeline for quantitative finance analysis that fetches real-time data using AWS Lambda, stores it in S3, and updates dashboards automatically with Power BI.
-
----
-
-## 🌟 Let's Connect
-
-- **Email:** [scherupally2024@fau.edu](mailto:scherupally2024@fau.edu)
-- **LinkedIn:** [cherupally-saisurya](https://www.linkedin.com/in/cherupally-saisurya)
-
----
-
-Feel free to explore my repositories and get in touch if you’re interested in collaborating or learning more about my projects! Happy coding!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
